@@ -1,5 +1,5 @@
 // Establece la fecha del cumpleaños
-var countDownDate = new Date("May 27, 2024 00:00:00").getTime();
+var countDownDate = new Date("May 28, 2024 00:00:00").getTime();
 
 // Actualiza la cuenta regresiva cada segundo
 var x = setInterval(function() {
